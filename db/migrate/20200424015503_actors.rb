@@ -1,4 +1,4 @@
-class Actors < ActiveRecord::Migration[5.2]
+class Actors < ActiveRecord::Migration[5.1]
   def change
   end
 end
